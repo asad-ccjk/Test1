@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15bb0ae7-3acd-4db0-8d99-bf0357a1060a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="82" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIWNL1WGVIKv7npLSLR5fYMyMl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-java-3.141.59" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="dfdv" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.Selenium_for_intellij.Main" />
+      <module name="MarsAutomationTest" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15bb0ae7-3acd-4db0-8d99-bf0357a1060a" name="Default Changelist" comment="" />
+      <created>1582630548082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582630548082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="88" key="#Inspections" timestamp="1582883472524">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="88" key="#Inspections/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1582883472524" />
+    <state x="241" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583831439755">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="241" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1583831439755" />
+    <state x="525" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1583153148904">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583153148904" />
+    <state x="550" y="140" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1582631102193">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="550" y="140" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1582631102193" />
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583219294797">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583219294797" />
+    <state x="460" y="240" key="FileChooserDialogImpl" timestamp="1583301136405">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="460" y="240" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583301136405" />
+    <state width="1397" height="204" key="GridCell.Tab.0.bottom" timestamp="1583833436243">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583831164707" />
+    <state width="1397" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583833436243" />
+    <state width="1397" height="204" key="GridCell.Tab.0.center" timestamp="1583833436242">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583831164707" />
+    <state width="1397" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583833436242" />
+    <state width="1397" height="204" key="GridCell.Tab.0.left" timestamp="1583833436242">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324445" />
+    <state width="1397" height="204" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583831164707" />
+    <state width="1397" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583833436242" />
+    <state width="1397" height="204" key="GridCell.Tab.0.right" timestamp="1583833436242">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583831164707" />
+    <state width="1397" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583833436242" />
+    <state width="1397" height="204" key="GridCell.Tab.1.bottom" timestamp="1583833436243">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324447" />
+    <state width="1397" height="204" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583831164708" />
+    <state width="1397" height="204" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583833436243" />
+    <state width="1397" height="204" key="GridCell.Tab.1.center" timestamp="1583833436243">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1583831164708" />
+    <state width="1397" height="204" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1583833436243" />
+    <state width="1397" height="204" key="GridCell.Tab.1.left" timestamp="1583833436243">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1583831164707" />
+    <state width="1397" height="204" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1583833436243" />
+    <state width="1397" height="204" key="GridCell.Tab.1.right" timestamp="1583833436243">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1397" height="204" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583241324446" />
+    <state width="1397" height="204" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1583831164708" />
+    <state width="1397" height="204" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1583833436243" />
+    <state x="192" y="8" width="1108" height="852" key="SettingsEditor" timestamp="1583823760127">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="192" y="8" width="1108" height="852" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583305498213" />
+    <state x="192" y="8" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583823760127" />
+    <state x="416" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1582692968781">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1582692968781" />
+    <state x="424" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583818800217">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="424" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1583818800217" />
+    <state x="450" y="185" key="extract.method.dialog" timestamp="1582874115534">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="185" key="extract.method.dialog/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1582874115534" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1583235005973">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583235005973" />
+    <state x="376" y="87" width="672" height="676" key="search.everywhere.popup" timestamp="1583746981535">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="87" width="672" height="676" key="search.everywhere.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1583214378470" />
+    <state x="376" y="87" width="672" height="676" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1583746981535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/ClientPlaceOrder.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/NonCcjkClient.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/NonCcjkClient.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/ClientPlaceOrder.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Selenium_for_intellij/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MarsAutomationTest$Main.ic" NAME="Main Coverage Results" MODIFIED="1583822937094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
